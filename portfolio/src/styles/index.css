@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import '@fontsource/calistoga';
+
+body{
+    font-family: 'Calistoga', system-ui;
+}
