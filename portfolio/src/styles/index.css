@@ -1,6 +1,6 @@
 @import "tailwindcss";
-@import '@fontsource/calistoga';
+@import '@fontsource/ranchers';
 
 body{
-    font-family: 'Calistoga', system-ui;
+    font-family: 'Ranchers', system-ui;
 }

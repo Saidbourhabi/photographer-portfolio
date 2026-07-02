@@ -12,7 +12,7 @@
   "dependencies": {
     "@cloudinary/react": "^1.14.4",
     "@cloudinary/url-gen": "^1.22.0",
-    "@fontsource/calistoga": "^5.2.7",
+    "@fontsource/ranchers": "^5.2.8",
     "@headlessui/react": "^2.2.10",
     "@tailwindcss/vite": "^4.3.2",
     "gsap": "^3.15.0",
@@ -22,6 +22,7 @@
     "react-dom": "^19.2.7",
     "react-i18next": "^17.0.8",
     "react-icons": "^5.7.0",
+    "react-router-dom": "^7.18.1",
     "swiper": "^14.0.1",
     "tailwindcss": "^4.3.2"
   },
